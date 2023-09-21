@@ -1,0 +1,26 @@
+h1{
+    color: pink;
+    background-color: yellow;
+}
+table,
+th,
+td{
+    border: 2px solid black;
+    border-width: 2px solid black;
+    
+}
+.dotted{
+    border-style: dotted;
+}
+.texted{
+    border-style: dotted;
+}
+.dot{
+    border-style: dotted;
+}
+.textdot{
+    border-style: dotted;
+}
+.dott{
+    border-style: dotted;
+}
